@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-10-16T16:28:45.077941900Z</date>
+  <millis>1760632125077</millis>
+  <nanos>941900</nanos>
+  <sequence>0</sequence>
+  <logger>lab.geometry.geometry2d</logger>
+  <level>SEVERE</level>
+  <class>lab.geometry.geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>3</thread>
+  <message>Created object Circle with radius set to 10.0</message>
+</record>
+<record>
+  <date>2025-10-16T16:28:45.118832200Z</date>
+  <millis>1760632125118</millis>
+  <nanos>832200</nanos>
+  <sequence>2</sequence>
+  <logger>lab.geometry.geometry2d</logger>
+  <level>SEVERE</level>
+  <class>lab.geometry.geometry2d.Circle</class>
+  <method>Area</method>
+  <thread>3</thread>
+  <message>The area of the circle has been calculated and equal to 314.1592</message>
+</record>
+<record>
+  <date>2025-10-16T16:28:45.119829200Z</date>
+  <millis>1760632125119</millis>
+  <nanos>829200</nanos>
+  <sequence>3</sequence>
+  <logger>lab.geometry.geometry2d</logger>
+  <level>SEVERE</level>
+  <class>lab.geometry.geometry2d.Circle</class>
+  <method>Show</method>
+  <thread>3</thread>
+  <message>Information about the circle was output to the console.</message>
+</record>
+<record>
+  <date>2025-10-16T16:28:45.133791700Z</date>
+  <millis>1760632125133</millis>
+  <nanos>791700</nanos>
+  <sequence>4</sequence>
+  <logger>lab.geometry.geometry2d</logger>
+  <level>INFO</level>
+  <class>lab.geometry.geometry2d.Rectangle</class>
+  <method>&lt;init&gt;</method>
+  <thread>3</thread>
+  <message>Created object Rectangle with sides 9.0 and 1.0</message>
+</record>
+<record>
+  <date>2025-10-16T16:28:45.136783800Z</date>
+  <millis>1760632125136</millis>
+  <nanos>783800</nanos>
+  <sequence>6</sequence>
+  <logger>lab.geometry.geometry2d</logger>
+  <level>INFO</level>
+  <class>lab.geometry.geometry2d.Rectangle</class>
+  <method>Area</method>
+  <thread>3</thread>
+  <message>The area of the rectangle has been calculated and equal to 9.0</message>
+</record>
+<record>
+  <date>2025-10-16T16:28:45.136783800Z</date>
+  <millis>1760632125136</millis>
+  <nanos>783800</nanos>
+  <sequence>7</sequence>
+  <logger>lab.geometry.geometry2d</logger>
+  <level>INFO</level>
+  <class>lab.geometry.geometry2d.Rectangle</class>
+  <method>Show</method>
+  <thread>3</thread>
+  <message>Information about the rectangle was output to the console</message>
+</record>
+<record>
+  <date>2025-10-16T16:28:45.137781500Z</date>
+  <millis>1760632125137</millis>
+  <nanos>781500</nanos>
+  <sequence>8</sequence>
+  <logger>lab.geometry.geometry2d</logger>
+  <level>INFO</level>
+  <class>lab.geometry.geometry2d.Rectangle</class>
+  <method>&lt;init&gt;</method>
+  <thread>3</thread>
+  <message>Created object Rectangle with sides 10.0 and 10.0</message>
+</record>
+<record>
+  <date>2025-10-16T16:28:45.142767800Z</date>
+  <millis>1760632125142</millis>
+  <nanos>767800</nanos>
+  <sequence>12</sequence>
+  <logger>lab.geometry.geometry2d</logger>
+  <level>INFO</level>
+  <class>lab.geometry.geometry2d.Rectangle</class>
+  <method>Area</method>
+  <thread>3</thread>
+  <message>The area of the rectangle has been calculated and equal to 100.0</message>
+</record>
+<record>
+  <date>2025-10-16T16:28:45.143765600Z</date>
+  <millis>1760632125143</millis>
+  <nanos>765600</nanos>
+  <sequence>14</sequence>
+  <logger>lab.geometry.geometry2d</logger>
+  <level>INFO</level>
+  <class>lab.geometry.geometry2d.Rectangle</class>
+  <method>Area</method>
+  <thread>3</thread>
+  <message>The area of the rectangle has been calculated and equal to 100.0</message>
+</record>
+</log>
